@@ -1,0 +1,9 @@
+#foto1 img{
+	float: left;
+	padding: 20px;
+}
+#foto2 img{
+	float: right;
+	padding: 20px;
+	margin-right: 20px;
+}
